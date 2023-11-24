@@ -1,0 +1,74 @@
+#mydiv{
+top:0px;
+padding:0px 0px 50px 0px;
+}
+#d1{
+top:0px;
+background-color:black;
+border:5px solid blue;
+color:white;
+font-size:500%;
+height:60%;
+width:100%;
+padding:0px 100px 0px 0px; 
+}
+#im1{
+padding:20px 0px 0px 0px;
+height:80%;
+width:30%;
+margin:0px 0px 100px 0px;
+border-radius:50%;
+}
+#abt1{
+background-color:#d96f74;
+font-size:210%;
+text-align:center;
+}
+#p1{
+font-size:130%
+}
+#p2{
+font-size:130%
+}
+#skill{
+background-color:#d96f74;
+font-size:210%;
+text-align:center;
+}
+a:hover{
+color:orange;
+}
+#p3{
+font-size:130%;
+color:black;
+}
+#project{
+background-color:#d96f74;
+font-size:210%;
+text-align:center;
+}
+
+#myfooter{
+  text-align:center;
+  color:black;
+  font-size:100%;
+}
+
+#ul2
+{
+   color:pink;
+}
+#ul3{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#d96f74;
+}
+#im2{
+border-radius:50%;
+height:150px;
+width:190px;
+}
+
+
